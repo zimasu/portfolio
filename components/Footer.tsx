@@ -19,7 +19,7 @@ export default function Footer({ contactRef }: { contactRef: React.RefObject<HTM
       animate={{ y: visible ? "0%" : "100%" }}
       transition={{ duration: 0.6, ease: [0.4, 0, 0.2, 1] }}
     >
-      <span className="font-mono text-[11px] text-[#525260]">© 2025 Zidane Syukri</span>
+      <span className="font-mono text-[11px] text-[#525260]">© 2026 Zidane Syukri</span>
       <div className="flex gap-6">
         <a href="https://github.com/zimasupro" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">GitHub</a>
         <a href="https://linkedin.com/in/zidanesyukri" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">LinkedIn</a>
