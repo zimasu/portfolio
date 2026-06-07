@@ -40,7 +40,7 @@ export default function Contact() {
             href="mailto:hello@zidanesyukri.com"
             className="inline-block text-[18px] text-[#c8c8d8] no-underline border-b border-[#1e1e24] pb-1 transition-colors duration-200 hover:text-[#23d18b] hover:border-[#23d18b]"
           >
-            hello@zidanesyukri.com
+            hello@zidanesyukri.me
           </motion.a>
         </div>
       </section>
