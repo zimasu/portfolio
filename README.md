@@ -2,7 +2,7 @@
 
 Source code for my personal site at https://zidanesyukri.me
 
-Stack:
+## Tech Stack
 - Next.js
 - TypeScript
 - Tailwind CSS
