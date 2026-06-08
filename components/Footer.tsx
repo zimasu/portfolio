@@ -21,8 +21,8 @@ export default function Footer({ contactRef }: { contactRef: React.RefObject<HTM
     >
       <span className="font-mono text-[11px] text-[#525260]">© 2026 Zidane Syukri</span>
       <div className="flex gap-6">
-        <a href="https://github.com/zimasupro" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">GitHub</a>
-        <a href="https://linkedin.com/in/zidanesyukri" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">LinkedIn</a>
+        <a href="https://github.com/zimasu" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">GitHub</a>
+        <a href="https://linkedin.com/in/zimasu" target="_blank" rel="noopener" className="font-mono text-[11px] text-[#525260] no-underline transition-colors duration-200 hover:text-[#10a37f]">LinkedIn</a>
       </div>
     </motion.footer>
   );
